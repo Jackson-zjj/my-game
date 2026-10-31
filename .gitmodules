@@ -1,0 +1,3 @@
+[submodule "External/GameFoundation"]
+	path = External/GameFoundation
+	url = https://github.com/Jackson-zjj/game-foundation.git
